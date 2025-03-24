@@ -125,6 +125,7 @@ class _homeState extends State<home> {
                   ],
                 ),
               ),
+
               Row(
                 children: [
                   Expanded(
